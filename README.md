@@ -1,5 +1,5 @@
 <p styles="font-size: 20rem" align="center">
-    <img styles="margin: 0px" width="100px" src="https://i.imgur.com/jtmVNrq.png" />
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="60"/> 
 </p>
 👋 Hi, I am Gabriel Ohno.
 Senior Full stack Developer & Blockchain Expert
