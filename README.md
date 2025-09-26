@@ -1,4 +1,7 @@
-#👋 Hi, I am Gabriel Ohno.
+<p styles="font-size: 20rem" align="center">
+    <img styles="margin: 0px" width="100px" src="https://i.imgur.com/jtmVNrq.png" />
+</p>
+👋 Hi, I am Gabriel Ohno.
 Senior Full stack Developer & Blockchain Expert
 
 
